@@ -1,4 +1,4 @@
-# node-js-todo-devops-project
+# python-todo-devops-project
 
 Sure! I’ll guide you through creating a simple to-do application in Python and setting up a DevOps pipeline using Docker, Ansible, and deployment to an EC2 instance.
 
