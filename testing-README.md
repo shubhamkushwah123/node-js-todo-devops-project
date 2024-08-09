@@ -1,4 +1,4 @@
-#Selenium Testing 
+# Selenium Testing 
 Here are separate instructions for setting up a Python Selenium environment and writing test cases to test a Python-based to-do application.
 
 ### Part 1: Set Up a Python Selenium Environment
